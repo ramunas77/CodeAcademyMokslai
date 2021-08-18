@@ -1,0 +1,64 @@
+[
+  {
+    "studentas": {
+      "id": "1256",
+      "vardas": "Vardenis",
+      "pavarde": "Pavardenis"
+    },
+    "egzaminas": {
+      "id": "124",
+      "pavadinimas": "OOP pagrindai",
+      "tipas": "testas"
+    },
+    "atsakymai": [
+      {
+        "klausimas": 1,
+        "atsakymas": "c"
+      },
+      {
+        "klausimas": 2,
+        "atsakymas": "a"
+      },
+      {
+        "klausimas": 3,
+        "atsakymas": "d"
+      },
+      {
+        "klausimas": 4,
+        "atsakymas": "a"
+      }
+    ]
+  },
+
+  {
+    "studentas": {
+      "id": "1356",
+      "vardas": "Gardenis",
+      "pavarde": "Gavardenis"
+    },
+    "egzaminas": {
+      "id": "124",
+      "pavadinimas": "OOP pagrindai",
+      "tipas": "testas"
+    },
+    "atsakymai": [
+      {
+        "klausimas": 1,
+        "atsakymas": "c"
+      },
+      {
+        "klausimas": 2,
+        "atsakymas": "a"
+      },
+      {
+        "klausimas": 3,
+        "atsakymas": "d"
+      },
+      {
+        "klausimas": 4,
+        "atsakymas": "c"
+      }
+    ]
+  }
+
+]
